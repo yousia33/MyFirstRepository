@@ -4,8 +4,8 @@ Hello！My name is Zhenyuan Ma!
 
 *hello*
 
-![img](img/ComfyUI_temp_tvyqe_00005_.png)
+![img](../img/ComfyUI_temp_tvyqe_00005_.png)
 
-![img2](img/ComfyUI_temp_vqhep_00026_.png)
+![img2](../img/ComfyUI_temp_vqhep_00026_.png)
 
 # push!
