@@ -45,22 +45,22 @@ The name of our team is Five Tigers !
   <div>
    <div style="background-color:;width:250px;margin-left:0px;position:absolute;top:0px;left:300px">
    <a href="http://www.baidu.com" style="text-decoration:none;color:#c8c8c8">
-    <img src="img/sample250.png">
+    <img src="img/wzz.jpg">
     <br>
     <center>
     <span style="font-size:22px">
-    123
+    王子臻
     </span>
     </center>
     </a>
   <div>
    <div style="background-color:;width:250px;margin-left:0px;position:absolute;top:0px;left:300px">
    <a href="http://www.baidu.com" style="text-decoration:none;color:#c8c8c8">
-    <img src="img/sample250.png">
+    <img src="img/ljh.jpg">
     <br>
     <center>
     <span style="font-size:22px">
-    123
+    卢佳慧
     </span>
     </center>
     </a>

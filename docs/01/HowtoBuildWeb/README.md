@@ -157,6 +157,7 @@ Insert the following HTML statement in the markdown text.
   <img src="image url">
 </center>
 ```
+
 <center>
   <img src="../../img/mzy.png" style="heigt:100px;width:100px">
 </center>
