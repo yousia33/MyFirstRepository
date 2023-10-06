@@ -158,10 +158,10 @@ Insert the following HTML statement in the markdown text.
 </center>
 ```
 
-<center>
+<!-- <center>
   <img src="../../img/webpage/cat.jpg" style="heigt:100px;width:100px">
 </center>
 
 <center>
   Center effect
-</center>
+</center> -->
