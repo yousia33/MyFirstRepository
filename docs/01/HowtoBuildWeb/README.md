@@ -159,8 +159,9 @@ Insert the following HTML statement in the markdown text.
 ```
 
 <center>
-  <img src="../../img/mzy.png" style="heigt:100px;width:100px">
+  <img src="../../img/webpage/cat.jpg" style="heigt:100px;width:100px">
 </center>
+
 <center>
   Center effect
 </center>
