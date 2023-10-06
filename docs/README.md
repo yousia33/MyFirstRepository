@@ -4,22 +4,25 @@ Hello!&nbspThis is our Team!</br></br>
 </center>
 
 <center style="font-size:50px">
-The name of our team is five tigers!
+The name of our team is [  ]  !
 </center>
 
 
-<div style="position:relative;top:100px;left:-100px" >
+<div style="position:relative;top:100px;left:-100px;" >
 
   <div style="background-color:;width:250px;margin-left:0px;position:absolute">
+  <a href="http://www.baidu.com" style="text-decoration:none;color:#c8c8c8">
     <img src="img/mzy.png">
     <br>
     <center>
-    <span style="font-size:22px">
+    <span style="font-size:22px;">
     马振远
     </span>
     </center>
+    </a>
   <div>
   <div style="background-color:;width:250px;margin-left:0px;position:absolute;top:0px;left:300px">
+  <a href="http://www.baidu.com" style="text-decoration:none;color:#c8c8c8">
     <img src="img/zyj.jpg">
     <br>
     <center>
@@ -27,8 +30,21 @@ The name of our team is five tigers!
     周宇杰
     </span>
     </center>
+    </a>
   <div>
    <div style="background-color:;width:250px;margin-left:0px;position:absolute;top:0px;left:300px">
+   <a href="http://www.baidu.com" style="text-decoration:none;color:#c8c8c8">
+    <img src="img/zjr.png">
+    <br>
+    <center>
+    <span style="font-size:22px">
+    张珈榕
+    </span>
+    </center>
+    </a>
+  <div>
+   <div style="background-color:;width:250px;margin-left:0px;position:absolute;top:0px;left:300px">
+   <a href="http://www.baidu.com" style="text-decoration:none;color:#c8c8c8">
     <img src="img/sample250.png">
     <br>
     <center>
@@ -36,8 +52,10 @@ The name of our team is five tigers!
     123
     </span>
     </center>
+    </a>
   <div>
    <div style="background-color:;width:250px;margin-left:0px;position:absolute;top:0px;left:300px">
+   <a href="http://www.baidu.com" style="text-decoration:none;color:#c8c8c8">
     <img src="img/sample250.png">
     <br>
     <center>
@@ -45,15 +63,7 @@ The name of our team is five tigers!
     123
     </span>
     </center>
-  <div>
-   <div style="background-color:;width:250px;margin-left:0px;position:absolute;top:0px;left:300px">
-    <img src="img/sample250.png">
-    <br>
-    <center>
-    <span style="font-size:22px">
-    123
-    </span>
-    </center>
+    </a>
   <div>
 </div>
  
