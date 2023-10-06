@@ -70,5 +70,6 @@ We are the <span style="color:#ea6f5a;font-size:80px;font-weight:800">Five Tiger
 </div>
 
 </center>
+<audio autoplay="autoplay" loop="loop" src="audio/Garoad - every day is night.mp3" muted>
 
-
+</audio>
