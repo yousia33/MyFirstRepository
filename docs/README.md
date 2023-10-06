@@ -4,14 +4,14 @@ Hello!&nbspThis is our Team!</br></br>
 </center>
 
 <center style="font-size:50px">
-The name of our team is Five Tigers !
+We are the Five Tigers !
 </center>
 
 
 <div style="position:relative;top:100px;left:-100px;" >
 
   <div style="background-color:;width:250px;margin-left:0px;position:absolute">
-  <a href="http://www.baidu.com" style="text-decoration:none;color:#c8c8c8">
+  <a href="https://yousia33.github.io/YousiaBlog/" style="text-decoration:none;color:#c8c8c8">
     <img src="img/mzy.png">
     <br>
     <center>
