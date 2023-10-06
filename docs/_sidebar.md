@@ -2,8 +2,8 @@
 
 - Daily homework
   - [1. Introduction](README.md)
-    - [How to build a page](01/HowtoBuildWeb/)
-    - [Introduce finial project]()
+    - [How to build a page](01/HowtoBuildWeb/README.md)
+    - [Introduce finial project](01/FinalproductIntro/README.md)
   - [2. arduino basic]()
   - [3. CAD]()
   - [4. 3D printing]()
